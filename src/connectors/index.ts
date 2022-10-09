@@ -55,5 +55,5 @@ export const walletlink = new WalletLinkConnector({
   url: NETWORK_URL,
   appName: 'EthPowswap',
   appLogoUrl:
-    'https://gateway.pinata.cloud/ipfs/QmdDs4wJuApVgP7PaVcv5a1CqLVbx8aiLtvAnhbvcLGRjt'
+    'https://ethpow.finance/static/media/ethereum-logo.2f7cbf46.png'
 })

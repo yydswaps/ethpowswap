@@ -3,6 +3,6 @@ export const DEFAULT_TOKEN_LIST_URL = 'https://raw.githubusercontent.com/yydswap
 
 export const DEFAULT_LIST_OF_LISTS: string[] = [
   DEFAULT_TOKEN_LIST_URL,
-  'https://gateway.pinata.cloud/ipfs/QmaXGLRyVP2PEbxrB2gfjoKKVfxX3Pk7gYyPaLSvXXqrFF',
+  'https://gateway.pinata.cloud/ipfs/QmekVjsWyNibwRavti3nUPzyB5rRYQKi482xtaiTmuxLRE',
   'https://raw.githubusercontent.com/yydswaps/ethswaptokenlist/main/ethpowswap.tokenlist.json'
 ]
